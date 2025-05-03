@@ -28,4 +28,16 @@ Summary of findings with insights on how to structure prompts for optimal result
 
 # OUTPUT
 
+| Prompt Type       | Platform   | Quality | Accuracy | Depth | Clarity | Relevance |
+|-------------------|------------|---------|----------|-------|---------|-----------|
+| Broad – Summarize | ChatGPT    | 4       | 5        | 3     | 4       | 4         |
+| Basic – Summarize | ChatGPT    | 5       | 5        | 5     | 5       | 5         |
+| Broad – Summarize | Gemini     | 4       | 4        | 3     | 3       | 4         |
+| Basic – Summarize | Gemini     | 5       | 5        | 5     | 5       | 5         |
+| Broad – Tech Help | Claude     | 3       | 4        | 3     | 3       | 3         |
+| Basic – Tech Help | Claude     | 5       | 5        | 5     | 4       | 5         |
+| Broad – Code Gen  | Copilot    | 3       | 4        | 2     | 3       | 3         |
+| Basic – Code Gen  | Copilot    | 5       | 5        | 5     | 5       | 5         |
+
+
 # RESULT: The prompt for the above said problem executed successfully
